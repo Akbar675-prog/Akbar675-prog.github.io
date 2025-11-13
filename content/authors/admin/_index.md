@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Nauval Akbar
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Swamp Company'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Nauval
+last_name: Akbar
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 😋
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,25 +27,25 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Dicoding
+    url: https://dicodingid.github.io/dicoding/sertifikatdicoding.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:swampycompany@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Akbar675-prog
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://dicodingid.github.io/dicoding/sertifikatdicoding.html
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://dicodingid.github.io/dicoding/sertifikatdicoding.html
 
 interests:
   - Large Language Models
